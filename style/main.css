@@ -70,6 +70,12 @@ header nav a:hover {
     /* na ausencia da primeira fonte, entra a segunda */
 }
 
+/* TODO */
+.botao a {
+    text-decoration: none;
+    color: white;
+}
+
 .botao {
     background-color: rgba(0, 0, 0, .50);
     border: none;
