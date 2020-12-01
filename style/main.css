@@ -48,7 +48,7 @@ header nav a:hover {
 
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('/img/capa-house.jpg');
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('/img/img2/capa-house.jpg');
     /* cria uma camada preta sobre a img para dar enfase no texto*/
     height: 400px;
     background-size: cover;
